@@ -7,7 +7,7 @@ FATEC São José dos Campos - Prof. Jessen Vidal - 4º Semestre de Logística
 
 ## Informações sobre o projeto
 O Projeto Interdisciplinar do 4º Semestre do Curso de Logística, tem como objetivo realizar uma análise do cenário portuário do Brasil, focando na variação da Prancha Média Operacional (Tonelada por Hora). Para isso, os professores coordenadores do projeto, compartilharam os arquivos com os dados históricos necessários para realização da análise. Nese repositório ficaram arquivados todas informações sobre o projeto, desde as metas a serem atingidas até o produto final, e asssim, podemos documentar a evolução da equipe.
-O projeto é gerenciado pela equipe através do método agil Scrum, conforme é explicado mais adiante nesse documento. Abaixo está uma grade com as datas de apresentação das sprints, e o link para o diretório referente a cada uma dessas entregas:
+<p>O projeto é gerenciado pela equipe através do método agil Scrum, conforme é explicado mais adiante nesse documento. Abaixo está uma grade com as datas de apresentação das sprints, e o link para o diretório referente a cada uma dessas entregas:</p>
 
 Sprint | Previsão | Status| Histórico|
 |------|--------|------|--------|
