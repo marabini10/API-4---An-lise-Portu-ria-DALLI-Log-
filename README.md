@@ -11,7 +11,7 @@ O Projeto Interdisciplinar do 4º Semestre do Curso de Logística, tem como obje
 
 Sprint | Previsão | Status| Histórico|
 |------|--------|------|--------|
-|Kick Off | 12/03/2024 | Concluido| [Ver Diretório](link) | 
+|Kick Off | 12/03/2024 | Concluido| [Ver Arquivo](link) | 
 |00 | 16/04/2024 | Em progresso| [Ver Diretório](link) | 
 |01|  07/05/2024 | A Fazer |[Ver Diretório](link) | 
 |02| 28/05/2024 | A fazer|[Ver Diretório](link) | 
