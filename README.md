@@ -42,4 +42,4 @@ Para gerenciamento e desenvolvimento do Projeto Interdisciplinar 4 será utiliza
 
 ## Backlog da Sprint
 
-## Intgrantes da Equipe
+## Integrantes da Equipe
