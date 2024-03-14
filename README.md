@@ -11,12 +11,12 @@ O Projeto Interdisciplinar do 4º Semestre do Curso de Logística, tem como obje
 
 Sprint | Previsão | Status| Histórico|
 |------|--------|------|--------|
-|Kick Off | 12/03/2024 | Concluido| [Ver Arquivo](link) | 
-|01 | 16/04/2024 | Em progresso| [Ver Diretório](link) | 
-|02|  07/05/2024 | A Fazer |[Ver Diretório](link) | 
-|03| 28/05/2024 | A fazer|[Ver Diretório](link) | 
-|04| 18/06/2024 | A fazer |[Ver Diretório](link)  | 
-|Feira de Soluções| 27/06/2024 |A fazer |[Ver Diretório](link) | 
+|Kick Off | 12/03/2024 | Concluido| [Ver Arquivo](https://github.com/marabini10/API4-DALLI/tree/main/Backlog) | 
+|01 | 16/04/2024 | Em progresso| [Ver Diretório](https://github.com/marabini10/API4-DALLI/tree/main/Sprint%201) | 
+|02|  07/05/2024 | A Fazer |[Ver Diretório](https://github.com/marabini10/API4-DALLI/tree/main/Sprint%202) | 
+|03| 28/05/2024 | A fazer|[Ver Diretório](https://github.com/marabini10/API4-DALLI/tree/main/Sprint%203) | 
+|04| 18/06/2024 | A fazer |[Ver Diretório](https://github.com/marabini10/API4-DALLI/tree/main/Sprint%204)  | 
+|Feira de Soluções| 27/06/2024 |A fazer |[Ver Diretório](https://github.com/marabini10/API4-DALLI/tree/main/Produto%20Final) | 
 
 ## ✏️ Metodologia
 Para gerenciamento e desenvolvimento do Projeto Interdisciplinar 4 será utilizado o método ágil Scrum, que certamente proporcionará uma abordagem dinâmica e eficaz para a condução do projeto. O método ágil Scrum é uma estrutura de gerenciamento de projetos que enfatiza a colaboração, adaptação contínua e entrega iterativa. Este método se baseia em três pilares fundamentais: transparência, inspeção e adaptação.
