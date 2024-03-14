@@ -12,10 +12,10 @@ O Projeto Interdisciplinar do 4º Semestre do Curso de Logística, tem como obje
 Sprint | Previsão | Status| Histórico|
 |------|--------|------|--------|
 |Kick Off | 12/03/2024 | Concluido| [Ver Arquivo](link) | 
-|00 | 16/04/2024 | Em progresso| [Ver Diretório](link) | 
-|01|  07/05/2024 | A Fazer |[Ver Diretório](link) | 
-|02| 28/05/2024 | A fazer|[Ver Diretório](link) | 
-|03| 18/06/2024 | A fazer |[Ver Diretório](link)  | 
+|01 | 16/04/2024 | Em progresso| [Ver Diretório](link) | 
+|02|  07/05/2024 | A Fazer |[Ver Diretório](link) | 
+|03| 28/05/2024 | A fazer|[Ver Diretório](link) | 
+|04| 18/06/2024 | A fazer |[Ver Diretório](link)  | 
 |Feira de Soluções| 27/06/2024 |A fazer |[Ver Diretório](link) | 
 
 ## ✏️ Metodologia
@@ -54,5 +54,12 @@ O Power BI é uma plataforma de análise de negócios da Microsoft que permite a
 ## 📈 Gráfico Burndown
 
 ## Backlog da Sprint
+#### Sprint 1
+[x] Kick-Off
+[x] Criação do Repositório no GitHub
+[] Reunião de Integração da Equipe
+[] Reunião de definição de Backlog
+[] Workshop de conhecimento com as tecnologias
+
 
 ## Integrantes da Equipe
