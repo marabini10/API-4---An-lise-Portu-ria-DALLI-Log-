@@ -57,10 +57,16 @@ O Power BI é uma plataforma de análise de negócios da Microsoft que permite a
 #### Sprint 1
 - [x] Kick-Off
 - [x] Criação do Repositório no GitHub
-- [ ] Reunião de Integração da Equipe
-- [ ] Reunião de definição de Backlog
-- [ ] Workshop de conhecimento com as tecnologias
-
+- [x] Reunião de Integração da Equipe
+- [x] Reunião de definição de Backlog
+- [x] Workshop de conhecimento com as tecnologias
+- [ ] Criação da Correlação dos Dados
+- [ ] Criação de Visualização dos dados gerais
+- [ ] Armazenamento dos dados em banco
+- [ ] Regressão Linear sobre Prancha Média
+- [ ] Filtragem por Cargas e Granéis Exclusivas (SH4)
+- [ ] Filtro pot porto de escolha para ser analisado
+- [ ] Visualização de dados sobre terminais do porto escolhido
 
 ## Integrantes da Equipe
 
