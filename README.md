@@ -65,7 +65,7 @@ O Power BI é uma plataforma de análise de negócios da Microsoft que permite a
 - [ ] Armazenamento dos dados em banco
 - [ ] Regressão Linear sobre Prancha Média
 - [ ] Filtragem por Cargas e Granéis Exclusivas (SH4)
-- [ ] Filtro pot porto de escolha para ser analisado
+- [ ] Filtro por porto de escolha para ser analisado
 - [ ] Visualização de dados sobre terminais do porto escolhido
 
 ## Integrantes da Equipe
