@@ -60,13 +60,31 @@ O Power BI é uma plataforma de análise de negócios da Microsoft que permite a
 - [x] Reunião de Integração da Equipe
 - [x] Reunião de definição de Backlog
 - [x] Workshop de conhecimento com as tecnologias
-- [ ] Criação da Correlação dos Dados
-- [ ] Criação de Visualização dos dados gerais
-- [ ] Armazenamento dos dados em banco
-- [ ] Regressão Linear sobre Prancha Média
-- [ ] Filtragem por Cargas e Granéis Exclusivas (SH4)
-- [ ] Filtro por porto de escolha para ser analisado
-- [ ] Visualização de dados sobre terminais do porto escolhido
+
+#### Sprint 2
+- [ ] Criação de código para unificar dos dados
+- [ ] Validação da Correlação de dados
+- [ ] Aplicação do filtro pelo porto escolhido
+- [ ] Aplicação do Filtro pela carga selecionada
+- [ ] Armazenagem dos dados
+- [ ] Criação da visualização ds dados por porto
+- [ ] Filtro por exportações
+
+#### Sprint 3
+- [ ] Criação de código para analisar variação da prancha média
+- [ ] Validação da tendência da Prancha Média
+- [ ] Criação do código para analisar tempo de operação
+- [ ] Análise do tempo de espera para atracação
+- [ ] Visualização em Power BI para analisar cada terminal
+- [ ] Análise de tendência do tempo de operação
+
+#### Sprint 4
+- [ ] Filtro dos principais terminais
+- [ ] Criação do ranking de eficiência dos terminais
+- [ ] Criação da visualização final em Power BI
+- [ ] Finalização da estrutura dos códigos em Python
+- [ ] Criação da interface para utilização do produto
+- [ ] Manual de uso do produto
 
 ## Integrantes da Equipe
 
