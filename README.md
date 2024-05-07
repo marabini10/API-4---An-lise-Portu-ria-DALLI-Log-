@@ -12,8 +12,8 @@ O Projeto Interdisciplinar do 4º Semestre do Curso de Logística, tem como obje
 Sprint | Previsão | Status| Histórico|
 |------|--------|------|--------|
 |Kick Off | 12/03/2024 | Concluido| [Ver Arquivo](https://github.com/marabini10/API4-DALLI/tree/main/Backlog) | 
-|01 | 16/04/2024 | Em progresso| [Ver Diretório](https://github.com/marabini10/API4-DALLI/tree/main/Sprint%201) | 
-|02|  07/05/2024 | A Fazer |[Ver Diretório](https://github.com/marabini10/API4-DALLI/tree/main/Sprint%202) | 
+|01 | 16/04/2024 | Concluido | [Ver Diretório](https://github.com/marabini10/API4-DALLI/tree/main/Sprint%201) | 
+|02|  07/05/2024 | Em progresso |[Ver Diretório](https://github.com/marabini10/API4-DALLI/tree/main/Sprint%202) | 
 |03| 28/05/2024 | A fazer|[Ver Diretório](https://github.com/marabini10/API4-DALLI/tree/main/Sprint%203) | 
 |04| 18/06/2024 | A fazer |[Ver Diretório](https://github.com/marabini10/API4-DALLI/tree/main/Sprint%204)  | 
 |Feira de Soluções| 27/06/2024 |A fazer |[Ver Diretório](https://github.com/marabini10/API4-DALLI/tree/main/Produto%20Final) | 
