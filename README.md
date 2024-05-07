@@ -52,7 +52,8 @@ O Power BI é uma plataforma de análise de negócios da Microsoft que permite a
 
 
 ## 📈 Gráfico Burndown
-![image](https://github.com/marabini10/API4-DALLI/assets/113735122/957942bd-268e-4d39-b591-6e39bc6bc526)
+![image](https://github.com/marabini10/API4-DALLI/assets/113735122/217d2883-342a-422e-83de-85981f99074b)
+
 
 
 ## Backlog da Sprint
