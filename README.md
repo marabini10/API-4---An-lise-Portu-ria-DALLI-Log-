@@ -74,13 +74,13 @@ O Power BI é uma plataforma de análise de negócios da Microsoft que permite a
 - [x] Tela em BI para análise da Prancha Média geral
 
 #### Sprint 3
-- [ ] Criação de código para analisar variação da prancha média
-- [ ] Validação da tendência da Prancha Média
-- [ ] Criação do código para analisar tempo de operação
-- [ ] Análise do tempo de espera para atracação
-- [ ] Visualização em Power BI para analisar cada terminal
-- [ ] Análise de tendência do tempo de operação
-- [ ] Análise de Variáveis que interferem na operação
+- [x] Criação de código para analisar variação da prancha média
+- [x] Validação da tendência da Prancha Média
+- [x] Criação do código para analisar tempo de operação
+- [x] Análise do tempo de espera para atracação
+- [x] Visualização em Power BI para analisar cada terminal
+- [x] Análise de tendência do tempo de operação
+- [x] Análise de Variáveis que interferem na operação
 
 #### Sprint 4
 - [ ] Filtro dos principais terminais
