@@ -83,12 +83,11 @@ O Power BI é uma plataforma de análise de negócios da Microsoft que permite a
 - [x] Análise de Variáveis que interferem na operação
 
 #### Sprint 4
-- [ ] Filtro dos principais terminais
+- [X] Filtro dos principais terminais
 - [ ] Criação do ranking de eficiência dos terminais
-- [ ] Criação da visualização final em Power BI
-- [ ] Associação das variáveis que justificam a variação dos dados analisdados
-- [ ] Finalização da estrutura dos códigos em Python
-- [ ] Criação da interface para utilização do produto
+- [X] Criação da visualização final em Power BI
+- [X] Finalização da estrutura dos códigos em Python
+- [X] Criação da interface para utilização do produto
 - [ ] Manual de uso do produto
 
 ## Integrantes da Equipe
