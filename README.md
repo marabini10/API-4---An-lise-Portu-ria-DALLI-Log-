@@ -1,8 +1,6 @@
 # Projeto Interdisciplinar 4 - Análise Portuária (DALLI Logística)
 FATEC São José dos Campos - Prof. Jessen Vidal - 4º Semestre de Logística
 
-<iframe title="Dash-final" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiNmRhYmFlMjUtZDY5Zi00NWY2LWE3M2ItMjRhY2RkNWQ5YTEyIiwidCI6ImNmNzJlMmJkLTdhMmItNDc4My1iZGViLTM5ZDU3YjA3Zjc2ZiIsImMiOjR9" frameborder="0" allowFullScreen="true"></iframe>
-
 <p align="center">
  <img src="https://i.imgur.com/WgfLsIZ.png"/>
 </p>
@@ -17,8 +15,8 @@ Sprint | Previsão | Status| Histórico|
 |01 | 16/04/2024 | Concluido | [Ver Diretório](https://github.com/marabini10/API4-DALLI/tree/main/Sprint%201) | 
 |02|  07/05/2024 | Concluido |[Ver Diretório](https://github.com/marabini10/API4-DALLI/tree/main/Sprint%202) | 
 |03| 28/05/2024 | Concluido |[Ver Diretório](https://github.com/marabini10/API4-DALLI/tree/main/Sprint%203) | 
-|04| 18/06/2024 | Em progresso |[Ver Diretório](https://github.com/marabini10/API4-DALLI/tree/main/Sprint%204)  | 
-|Feira de Soluções| 27/06/2024 |A fazer |[Ver Diretório](https://github.com/marabini10/API4-DALLI/tree/main/Produto%20Final) | 
+|04| 18/06/2024 | Concluído |[Ver Diretório](https://github.com/marabini10/API4-DALLI/tree/main/Sprint%204)  | 
+|Feira de Soluções| 27/06/2024 |Em progresso |[Ver Diretório](https://github.com/marabini10/API4-DALLI/tree/main/Produto%20Final) | 
 
 ## ✏️ Metodologia
 Para gerenciamento e desenvolvimento do Projeto Interdisciplinar 4 será utilizado o método ágil Scrum, que certamente proporcionará uma abordagem dinâmica e eficaz para a condução do projeto. O método ágil Scrum é uma estrutura de gerenciamento de projetos que enfatiza a colaboração, adaptação contínua e entrega iterativa. Este método se baseia em três pilares fundamentais: transparência, inspeção e adaptação.
@@ -86,11 +84,11 @@ O Power BI é uma plataforma de análise de negócios da Microsoft que permite a
 
 #### Sprint 4
 - [X] Filtro dos principais terminais
-- [ ] Criação do ranking de eficiência dos terminais
+- [x] Criação do ranking de eficiência dos terminais
 - [X] Criação da visualização final em Power BI
 - [X] Finalização da estrutura dos códigos em Python
 - [X] Criação da interface para utilização do produto
-- [ ] Manual de uso do produto
+- [x] Manual de uso do produto
 
 ## Integrantes da Equipe
 
