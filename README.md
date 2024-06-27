@@ -1,6 +1,8 @@
 # Projeto Interdisciplinar 4 - Análise Portuária (DALLI Logística)
 FATEC São José dos Campos - Prof. Jessen Vidal - 4º Semestre de Logística
 
+<iframe title="Dash-final" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiNmRhYmFlMjUtZDY5Zi00NWY2LWE3M2ItMjRhY2RkNWQ5YTEyIiwidCI6ImNmNzJlMmJkLTdhMmItNDc4My1iZGViLTM5ZDU3YjA3Zjc2ZiIsImMiOjR9" frameborder="0" allowFullScreen="true"></iframe>
+
 <p align="center">
  <img src="https://i.imgur.com/WgfLsIZ.png"/>
 </p>
